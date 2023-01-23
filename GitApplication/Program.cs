@@ -35,5 +35,11 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Завьялова Арина Алексеевна");
+            Console.WriteLine("10.3");
+            Console.WriteLine("21.10.2006");
+        }
     }
 }
