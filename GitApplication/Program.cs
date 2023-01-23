@@ -35,13 +35,6 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
-<<<<<<< HEAD
-        public static void PrintMyName()
-        {
-            Console.WriteLine("Завьялова Арина Алексеевна");
-            Console.WriteLine("10.3");
-            Console.WriteLine("21.10.2006");
-=======
 
         public static void PrintMyName()
         {
@@ -54,7 +47,12 @@ namespace GitApplication
             Console.WriteLine("Antonina Lazarenko");
             Console.WriteLine("10.3");
             Console.WriteLine("19, March");
->>>>>>> 1268e537d8460ca149512c668f9df9d4246bf3ee
+        }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Завьялова Арина Алексеевна");
+            Console.WriteLine("10.3");
+            Console.WriteLine("21.10.2006");
         }
     }
 }
