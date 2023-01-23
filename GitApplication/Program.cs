@@ -7,7 +7,7 @@ namespace GitApplication
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
         public static void MatrixA(int h, int w)
         {
@@ -22,7 +22,6 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
-
         public static void MatrixB(int h, int w)
         {
             Random rnd = new Random();
