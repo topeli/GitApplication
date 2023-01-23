@@ -36,6 +36,12 @@ namespace GitApplication
             }
         }
 
+        public void PrintMyName()
+        {
+            Console.WriteLine("Antonina Lazarenko");
+            Console.WriteLine("10.3");
+            Console.WriteLine("19, March");
+        }
         public static void PrintMyName()
         {
             Console.WriteLine("Antonyan Masha");
