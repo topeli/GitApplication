@@ -12,7 +12,7 @@ namespace GitApplication
             {
                 for (int j = 0; j < w; j++)
                 {
-                    Console.Write(rnd.Next(0, 1) + " ");
+                    Console.Write(rnd.Next(0, 2) + " ");
                 }
                 Console.WriteLine();
             }
