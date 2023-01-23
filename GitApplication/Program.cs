@@ -36,5 +36,11 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
+        public void PrintMyName()
+        {
+            Console.WriteLine("Antonina Lazarenko");
+            Console.WriteLine("10.3");
+            Console.WriteLine("19, March");
+        }
     }
 }
