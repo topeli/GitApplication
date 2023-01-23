@@ -35,18 +35,17 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
-
-        public static void PrintMyName()
-        {
-            Console.WriteLine("Antonyan Masha");
-            Console.WriteLine("10.3");
-            Console.WriteLine("Janyary 23");
-        }
         public void PrintMyName()
         {
             Console.WriteLine("Antonina Lazarenko");
             Console.WriteLine("10.3");
             Console.WriteLine("19, March");
+        }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Antonyan Masha");
+            Console.WriteLine("10.3");
+            Console.WriteLine("Janyary 23");
         }
     }
 }
